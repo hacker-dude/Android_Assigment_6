@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@id/cleanFragment"
+        android:icon="@drawable/ic_clean"
+        android:title="@string/clean" />
+
+    <item
+        android:id="@id/sitFragment"
+        android:icon="@drawable/ic_sit"
+        android:title="@string/sit" />
+    <item
+        android:id="@id/somethingFragment"
+        android:icon="@drawable/ic_something"
+        android:title="@string/something" />
+</menu>
